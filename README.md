@@ -1,5 +1,7 @@
 # 💫 About Me:
 Hi, I'm Aditya Anarse 👋<br><br>🎓 B.Tech CSE (Data Science) Student at Ajeenkya DY Patil University (NIAT)<br><br>💻 Currently learning:<br>- Data Structures & Algorithms (DSA)<br>- Python<br>- React.js<br>- SQL & MongoDB<br>- Generative AI & LLM Applications<br><br>🚀 Interested in:<br>- Software Development<br>- Data Science<br>- Artificial Intelligence<br>- Problem Solving<br><br>📚 Currently focused on improving my DSA skills through LeetCode and building projects to strengthen my development skills.<br><br>🌱 Always learning and exploring new technologies.
+
+
 🖥️ See my portfolio at my-portfolio-8lvp.vercel.app
 
 
